@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@import "reset";
+@import "mixins";
+@import "core";
+@import "fonts";
+@import "blocks/header";
+@import "blocks/choose";
+@import "blocks/portfolio";
+@import "blocks/subscribe";
+@import "blocks/footer";
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
